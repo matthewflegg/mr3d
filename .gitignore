@@ -27,6 +27,8 @@
 *.lib
 
 # Executables
-*.exe
-*.out
-*.app
+# Executables will be included in a build directory,
+# to be used in Windows & Linux environments for linking.
+# *.exe
+# *.out
+# *.app
